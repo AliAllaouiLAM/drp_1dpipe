@@ -62,3 +62,5 @@ For the `pfsObject-xxxxx-y,y-zzz-XXXXXXXXXXXX.fits` input file :
 * `config.json` is summary file with all the input arguments
 * `redshift.csv` is a summary table of best redshift for every input spectrum
 * `version.json` is the version hash of the pipeline used to process data
+
+just for test
